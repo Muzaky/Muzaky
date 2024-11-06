@@ -59,7 +59,7 @@ Check out my playlist : 🎵
   <br>
   <br>
 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=valentinohrynt&theme=dark&background=000000">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Muzaky&theme=dark&background=000000">
  
   <br>
   <br>
