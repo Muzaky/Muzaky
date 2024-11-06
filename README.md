@@ -55,7 +55,7 @@ Check out my playlist : 🎵
   📊 GitHub Stats:
   <br>
   <br>
-  <img src"http://github-readme-stats.vercel.app/api?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src"https://github-readme-stats.vercel.app/api?username=valentinohrynt&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false"/>
   <br>
   <br>
 
