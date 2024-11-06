@@ -58,7 +58,8 @@ Check out my playlist : 🎵
   <img src"http://github-readme-stats.vercel.app/api?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false"/>
   <br>
   <br>
-  <img src"http://github-readme-streak-stats.herokuapp.com/?user=Muzaky&theme=calm_pink&hide_border=false"/
+
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=valentinohrynt&theme=dark&background=000000">
  
   <br>
   <br>
