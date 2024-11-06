@@ -29,6 +29,7 @@ Check out my playlist : 🎵
 <h2>
   💻 Tech Stack:
   <br>
+  <br>
   <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -50,13 +51,20 @@ Check out my playlist : 🎵
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </h2>
 
+<h2>
+  📊 GitHub Stats:
+  <br>
+  <br>
+  <img src"https://github-readme-stats.vercel.app/api?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false">
+  <br>
+  <br>
+  <img src"https://github-readme-streak-stats.herokuapp.com/?user=Muzaky&theme=calm_pink&hide_border=false">
+  <br>
+  <br>
+  <img src"https://github-readme-stats.vercel.app/api/top-langs/?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</h2>
+
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muzaky&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Muzaky&icon=0&color=0)](https://visitcount.itsvg.in)
 
