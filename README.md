@@ -1,12 +1,15 @@
 
-# 💫 About Me:
+
 <div align="center">
+<div >
+  💫 About Me:
+</div>
 <br>
 Currently passionated to cloud computing ☁️
 <br>
-Undergraduted Information System Student at University of Jember 🏛️ 
+Undergraduate Information System Student at the University of Jember 🏛️ 
 <br>
-I love music 🎵
+Check out my playlist : 🎵
 <br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=62etwkmlbfj9vvvpsix2j5x9e&count=5" alt="Spotify recently played"  />
 </div>
