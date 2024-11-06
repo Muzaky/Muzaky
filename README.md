@@ -1,6 +1,8 @@
 # 💫 About Me:
 <div align="center">
-Currently passionated to cloud computing ☁️<br>Undergraduted Information System Student at University of Jember 🏛️<br>I love music 🎵 
+Currently passionated to cloud computing ☁️
+Undergraduted Information System Student at University of Jember 🏛️ 
+I love music 🎵 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=62etwkmlbfj9vvvpsix2j5x9e&count=5" alt="Spotify recently played"  />
 </div>
 
