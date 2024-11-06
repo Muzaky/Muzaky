@@ -20,8 +20,8 @@ Check out my playlist : 🎵
   <a href="https://instagram.com/afifmza">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
   </a>
-  <a href="https://instagram.com/afifmza">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+  <a href="https://linkedin.com/in/muhammadafifrohmanmuzaky">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
   
 </h2>
