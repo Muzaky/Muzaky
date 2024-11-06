@@ -54,10 +54,13 @@ Check out my playlist : 🎵
 <h2>
   📊 GitHub Stats:
   <br>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muzaky&theme=calm_pink&background=000000">
-  <br>
   <be>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false">
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzaky&theme=calm_pink&hide_border=false">
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </h2>
 
