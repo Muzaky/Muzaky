@@ -16,9 +16,14 @@ Check out my playlist : 🎵
 
 <h2>
   Socials 🌐:
+  <br>
   <a href="https://instagram.com/afifmza">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
   </a>
+  <a href="https://instagram.com/afifmza">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+  </a>
+  
 </h2>
 
 </div>
