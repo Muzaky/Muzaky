@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<div >
+<div style="font-size:40px">
   💫 About Me:
 </div>
 <br>
@@ -11,7 +11,9 @@ Undergraduate Information System Student at the University of Jember 🏛️
 <br>
 Check out my playlist : 🎵
 <br>
+<br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=62etwkmlbfj9vvvpsix2j5x9e&count=5" alt="Spotify recently played"  />
+
 </div>
 
 
