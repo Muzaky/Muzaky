@@ -5,8 +5,9 @@
 </div>
 <hr>
 <div align="center">
-  :man_technologist: About Me :
-   Aku berlutut ? tidak akan
+  About Me :
+  Currently passionated about Cloud Computing, 
+  Anyway i love cat :cat:
 </div>
 <hr>
 <div align="center">
