@@ -30,21 +30,15 @@
 <div align = "center">
   :fire: GitHub Stats :
   <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=valentinohrynt&theme=dark&background=000000">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Muzaky&theme=dark&background=000000">
   </div>
 </div>
 <hr>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/valentinohariyanto/">
+  <a href="https://www.linkedin.com/in/muhammadafifrohmanmuzaky/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://instagram.com/oolentino">
+  <a href="https://instagram.com/afifmza">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=valentinohrynt&style=flat-square&color=blue" alt=""/>
 </div>
