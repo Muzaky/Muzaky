@@ -1,9 +1,9 @@
 
 
 <div align="center">
-<div style="font-size:40px">
-  💫 About Me:
-</div>
+<h1>
+  About me 🧟‍♂️
+</h1>
 <br>
 Currently passionated to cloud computing ☁️
 <br>
