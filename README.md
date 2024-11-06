@@ -55,17 +55,19 @@ Check out my playlist : 🎵
   📊 GitHub Stats:
   <br>
   <br>
-  <img src"https://github-readme-stats.vercel.app/api?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false">
+  <img src"https://github-readme-stats.vercel.app/api?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false"/>
   <br>
   <br>
-  <img src"https://github-readme-streak-stats.herokuapp.com/?user=Muzaky&theme=calm_pink&hide_border=false">
+  <img src"https://github-readme-streak-stats.herokuapp.com/?user=Muzaky&theme=calm_pink&hide_border=false"/>
   <br>
   <br>
-  <img src"https://github-readme-stats.vercel.app/api/top-langs/?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src"https://github-readme-stats.vercel.app/api/top-langs/?username=Muzaky&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </h2>
 
 </div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Muzaky&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
