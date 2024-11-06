@@ -11,7 +11,7 @@ Undergraduate Information System Student at the University of Jember 🏛️
 <br>
 Check out my playlist 🎵: 
 <br>
-<be>
+<br>
 <a href="https://open.spotify.com/playlist/4BxPyFQJZ68IGCxV1TyvuJ?si=6d1ec6c9284e41b5">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=62etwkmlbfj9vvvpsix2j5x9e&count=5" alt="Spotify recently played"  />
 </a>
