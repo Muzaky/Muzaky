@@ -13,7 +13,7 @@ Check out my playlist 🎵:
 <br>
 <br>
 <a href="https://open.spotify.com/playlist/4BxPyFQJZ68IGCxV1TyvuJ?si=6d1ec6c9284e41b5">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=62etwkmlbfj9vvvpsix2j5x9e&count=5" alt="Spotify recently played"  />
+<img src="https://img.shields.io/badge/spotify-1ED760?logo=spotify&logoColor=white">
 </a>
   
 
